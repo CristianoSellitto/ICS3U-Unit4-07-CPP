@@ -2,12 +2,12 @@
 //
 // Created by Cristiano Sellitto
 // Created in November 2022
-// A program that prints out every RGB value
+// A program that prints out 1000 to 2000 on five lines each
 
 #include <iostream>
 
 int main() {
-    // Prints out every RGB value
+    // Prints out 1000 to 2000 on five lines each
 
     std::cout << "Press Enter to start printing 1000 to 2000:";
     std::cout << std::endl;
